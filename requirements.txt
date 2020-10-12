@@ -1,6 +1,6 @@
 poetry
 twine
-inspy_logger=="2.0.0a36"
+inspy_logger=="2.0.0a6"
 inspyred_print
 discord
 python-dotenv
